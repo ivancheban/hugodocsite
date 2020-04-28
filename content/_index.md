@@ -8,7 +8,7 @@ sections:
   component: hero_block.html
   content: This is a template for the documentation site built with Hugo, Forestry,
     GitHub, and Stackbit.
-  image: "/images/3.jpg"
+  image: ''
   actions:
   - label: Get Started
     url: docs/index.html
