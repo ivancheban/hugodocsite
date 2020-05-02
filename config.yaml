@@ -1,6 +1,7 @@
 ---
 title: Documentation site built with Hugo
 baseURL: "/"
+googleAnalytics: "UA-162550995-15"
 params:
   palette: blue
   palettes:
